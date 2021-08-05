@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surjith
 - 👀 I am a program manager working at a consulting services firm
-- 🌱 Learning and experimenting with AI ML algorithms is a hobby i pursue outside my day job
+- 🌱 Learning and experimenting with AI ML algorithms is a hobby i pursue outside my 9 to 6
 - 💞️ I’m interested to colloborate and productize AI ML to solve social issues (non-profit) 
 - 📫 You can reach me at surjithk2015@email.iimcal.ac.in
 
